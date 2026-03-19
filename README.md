@@ -7,3 +7,9 @@ The main code for article 'A reciprocal glial circuit calibrates injury informat
 2 Analysis code for sequencing data.
 
 If you have any feedback or issues, you are welcome to either post an issue in the Issues section or send an email to jingmiao@cibr.ac.cn.
+
+# ATP1.0 in vivo and in vitor imaging data analysis
+
+You can download the project files post signal extraction via AQuA (Yizhi Wang et.al nat. neurosci 2019) from here.
+
+Options for signal extraction can be downloaded here.
