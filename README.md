@@ -10,6 +10,7 @@ If you have any feedback or issues, you are welcome to either post an issue in t
 
 # ATP1.0 in vivo and in vitor imaging data analysis
 
-You can download the project files post signal extraction via AQuA (Yizhi Wang et.al nat. neurosci 2019) from here.
+You can download the project files post signal extraction via AQuA (Yizhi Wang et.al nat. neurosci 2019) from here. [https://github.com/yu-lab-vt/AQuA]
 
+ 
 Options for signal extraction can be downloaded here.
